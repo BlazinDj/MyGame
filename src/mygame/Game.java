@@ -10,6 +10,8 @@ import javax.swing.JFrame;
 
 public class Game 
 {
+    
+    //MELOJAN IS KINGMELOJAN NAME MELO
    public static void main(String [] args){
        JFrame window = new JFrame("SUPER SQUARE"); // Make a Frame
        window.setContentPane(new GamePanel());
