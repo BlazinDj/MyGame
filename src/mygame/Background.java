@@ -12,6 +12,7 @@ public class Background
 {
     private BufferedImage image;
     
+    //Check this my g.
     //Points on the image
     private double x;
     private double y;
